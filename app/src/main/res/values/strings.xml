@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_categories_nunderweight_18_5_nnormal_weight_18_5_24_9_noverweight_25_29_9_nobese_30_or_greater"><![CDATA[BMI Categories:\nUnderweight: < 18.5\nNormal weight: 18.5–24.9\nOverweight: 25–29.9\nObese: 30 or greater]]></string>
+</resources>
